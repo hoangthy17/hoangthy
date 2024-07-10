@@ -1,0 +1,14 @@
+D:\Downloads\QuickSort\QuickSort\bin\Debug\net8.0\QuickSort.exe
+D:\Downloads\QuickSort\QuickSort\bin\Debug\net8.0\QuickSort.deps.json
+D:\Downloads\QuickSort\QuickSort\bin\Debug\net8.0\QuickSort.runtimeconfig.json
+D:\Downloads\QuickSort\QuickSort\bin\Debug\net8.0\QuickSort.dll
+D:\Downloads\QuickSort\QuickSort\bin\Debug\net8.0\QuickSort.pdb
+D:\Downloads\QuickSort\QuickSort\obj\Debug\net8.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\QuickSort\QuickSort\obj\Debug\net8.0\QuickSort.AssemblyInfoInputs.cache
+D:\Downloads\QuickSort\QuickSort\obj\Debug\net8.0\QuickSort.AssemblyInfo.cs
+D:\Downloads\QuickSort\QuickSort\obj\Debug\net8.0\QuickSort.csproj.CoreCompileInputs.cache
+D:\Downloads\QuickSort\QuickSort\obj\Debug\net8.0\QuickSort.dll
+D:\Downloads\QuickSort\QuickSort\obj\Debug\net8.0\refint\QuickSort.dll
+D:\Downloads\QuickSort\QuickSort\obj\Debug\net8.0\QuickSort.pdb
+D:\Downloads\QuickSort\QuickSort\obj\Debug\net8.0\QuickSort.genruntimeconfig.cache
+D:\Downloads\QuickSort\QuickSort\obj\Debug\net8.0\ref\QuickSort.dll

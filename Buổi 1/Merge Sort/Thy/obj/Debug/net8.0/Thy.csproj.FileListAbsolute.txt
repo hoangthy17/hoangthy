@@ -1,0 +1,42 @@
+D:\Downloads\Thy\Thy\bin\Debug\net8.0\Thy.exe
+D:\Downloads\Thy\Thy\bin\Debug\net8.0\Thy.deps.json
+D:\Downloads\Thy\Thy\bin\Debug\net8.0\Thy.runtimeconfig.json
+D:\Downloads\Thy\Thy\bin\Debug\net8.0\Thy.dll
+D:\Downloads\Thy\Thy\bin\Debug\net8.0\Thy.pdb
+D:\Downloads\Thy\Thy\obj\Debug\net8.0\Thy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Thy\Thy\obj\Debug\net8.0\Thy.AssemblyInfoInputs.cache
+D:\Downloads\Thy\Thy\obj\Debug\net8.0\Thy.AssemblyInfo.cs
+D:\Downloads\Thy\Thy\obj\Debug\net8.0\Thy.csproj.CoreCompileInputs.cache
+D:\Downloads\Thy\Thy\obj\Debug\net8.0\Thy.dll
+D:\Downloads\Thy\Thy\obj\Debug\net8.0\refint\Thy.dll
+D:\Downloads\Thy\Thy\obj\Debug\net8.0\Thy.pdb
+D:\Downloads\Thy\Thy\obj\Debug\net8.0\Thy.genruntimeconfig.cache
+D:\Downloads\Thy\Thy\obj\Debug\net8.0\ref\Thy.dll
+D:\Downloads\Merge Sort\Thy\bin\Debug\net8.0\Thy.exe
+D:\Downloads\Merge Sort\Thy\bin\Debug\net8.0\Thy.deps.json
+D:\Downloads\Merge Sort\Thy\bin\Debug\net8.0\Thy.runtimeconfig.json
+D:\Downloads\Merge Sort\Thy\bin\Debug\net8.0\Thy.dll
+D:\Downloads\Merge Sort\Thy\bin\Debug\net8.0\Thy.pdb
+D:\Downloads\Merge Sort\Thy\obj\Debug\net8.0\Thy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Merge Sort\Thy\obj\Debug\net8.0\Thy.AssemblyInfoInputs.cache
+D:\Downloads\Merge Sort\Thy\obj\Debug\net8.0\Thy.AssemblyInfo.cs
+D:\Downloads\Merge Sort\Thy\obj\Debug\net8.0\Thy.csproj.CoreCompileInputs.cache
+D:\Downloads\Merge Sort\Thy\obj\Debug\net8.0\Thy.dll
+D:\Downloads\Merge Sort\Thy\obj\Debug\net8.0\refint\Thy.dll
+D:\Downloads\Merge Sort\Thy\obj\Debug\net8.0\Thy.pdb
+D:\Downloads\Merge Sort\Thy\obj\Debug\net8.0\Thy.genruntimeconfig.cache
+D:\Downloads\Merge Sort\Thy\obj\Debug\net8.0\ref\Thy.dll
+D:\Buổi 1\Merge Sort\Thy\bin\Debug\net8.0\Thy.exe
+D:\Buổi 1\Merge Sort\Thy\bin\Debug\net8.0\Thy.deps.json
+D:\Buổi 1\Merge Sort\Thy\bin\Debug\net8.0\Thy.runtimeconfig.json
+D:\Buổi 1\Merge Sort\Thy\bin\Debug\net8.0\Thy.dll
+D:\Buổi 1\Merge Sort\Thy\bin\Debug\net8.0\Thy.pdb
+D:\Buổi 1\Merge Sort\Thy\obj\Debug\net8.0\Thy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Buổi 1\Merge Sort\Thy\obj\Debug\net8.0\Thy.AssemblyInfoInputs.cache
+D:\Buổi 1\Merge Sort\Thy\obj\Debug\net8.0\Thy.AssemblyInfo.cs
+D:\Buổi 1\Merge Sort\Thy\obj\Debug\net8.0\Thy.csproj.CoreCompileInputs.cache
+D:\Buổi 1\Merge Sort\Thy\obj\Debug\net8.0\Thy.dll
+D:\Buổi 1\Merge Sort\Thy\obj\Debug\net8.0\refint\Thy.dll
+D:\Buổi 1\Merge Sort\Thy\obj\Debug\net8.0\Thy.pdb
+D:\Buổi 1\Merge Sort\Thy\obj\Debug\net8.0\Thy.genruntimeconfig.cache
+D:\Buổi 1\Merge Sort\Thy\obj\Debug\net8.0\ref\Thy.dll

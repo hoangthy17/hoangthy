@@ -1,0 +1,14 @@
+D:\Downloads\Nhân 2 số nguyên lớn\Nhân 2 số nguyên lớn\bin\Debug\net8.0\Nhân 2 số nguyên lớn.exe
+D:\Downloads\Nhân 2 số nguyên lớn\Nhân 2 số nguyên lớn\bin\Debug\net8.0\Nhân 2 số nguyên lớn.deps.json
+D:\Downloads\Nhân 2 số nguyên lớn\Nhân 2 số nguyên lớn\bin\Debug\net8.0\Nhân 2 số nguyên lớn.runtimeconfig.json
+D:\Downloads\Nhân 2 số nguyên lớn\Nhân 2 số nguyên lớn\bin\Debug\net8.0\Nhân 2 số nguyên lớn.dll
+D:\Downloads\Nhân 2 số nguyên lớn\Nhân 2 số nguyên lớn\bin\Debug\net8.0\Nhân 2 số nguyên lớn.pdb
+D:\Downloads\Nhân 2 số nguyên lớn\Nhân 2 số nguyên lớn\obj\Debug\net8.0\Nhân 2 số nguyên lớn.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Nhân 2 số nguyên lớn\Nhân 2 số nguyên lớn\obj\Debug\net8.0\Nhân 2 số nguyên lớn.AssemblyInfoInputs.cache
+D:\Downloads\Nhân 2 số nguyên lớn\Nhân 2 số nguyên lớn\obj\Debug\net8.0\Nhân 2 số nguyên lớn.AssemblyInfo.cs
+D:\Downloads\Nhân 2 số nguyên lớn\Nhân 2 số nguyên lớn\obj\Debug\net8.0\Nhân 2 số nguyên lớn.csproj.CoreCompileInputs.cache
+D:\Downloads\Nhân 2 số nguyên lớn\Nhân 2 số nguyên lớn\obj\Debug\net8.0\Nhân 2 số nguyên lớn.dll
+D:\Downloads\Nhân 2 số nguyên lớn\Nhân 2 số nguyên lớn\obj\Debug\net8.0\refint\Nhân 2 số nguyên lớn.dll
+D:\Downloads\Nhân 2 số nguyên lớn\Nhân 2 số nguyên lớn\obj\Debug\net8.0\Nhân 2 số nguyên lớn.pdb
+D:\Downloads\Nhân 2 số nguyên lớn\Nhân 2 số nguyên lớn\obj\Debug\net8.0\Nhân 2 số nguyên lớn.genruntimeconfig.cache
+D:\Downloads\Nhân 2 số nguyên lớn\Nhân 2 số nguyên lớn\obj\Debug\net8.0\ref\Nhân 2 số nguyên lớn.dll
